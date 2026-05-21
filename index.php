@@ -6,3 +6,4 @@ $curso = "DAW - Despliegue de Aplicaciones Web";
 echo "<h1>Bienvenido, " . $nombre . "</h1>";
 echo "<p>Curso: " . $curso . "</p>";
 ?>
+echo "<p>Módulo: Despliegue de Aplicaciones Web</p>";
